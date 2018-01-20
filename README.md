@@ -4,7 +4,8 @@ Python Module that generates fake user agents with a locally saved DB.  All the 
 
 ## Getting Started
 
-```>>> import RandomHeaders
+```
+>>> import RandomHeaders
 >>> header = RandomHeaders.LoadHeader()
 >>> print header
 {'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.0 (KHTML'}
