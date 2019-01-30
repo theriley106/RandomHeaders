@@ -4,6 +4,10 @@ Python Module that generates fake user agents with a locally saved DB.  All the 
 
 This is useful for webscraping, and testing programs that identify devices based on the user agent.
 
+## Install
+
+>> pip install randomheaders
+
 ## Getting Started
 
 ```
